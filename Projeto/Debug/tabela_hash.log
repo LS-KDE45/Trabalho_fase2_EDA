@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Temp\Programa\tabela_hash\main.c(14,22): warning C4047: '=': 'job *' difere em níveis de indireção de 'job **'
+C:\Temp\Programa\tabela_hash\main.c(18,28): warning C4047: '=': 'job *' difere em níveis de indireção de 'job **'
+C:\Temp\Programa\tabela_hash\main.c(27,34): warning C4047: '=': 'job *' difere em níveis de indireção de 'job **'
+C:\Temp\Programa\tabela_hash\main.c(46,41): warning C4047: '=': 'job *' difere em níveis de indireção de 'job **'
+C:\Temp\Programa\tabela_hash\main.c(47,41): warning C4047: '=': 'job *' difere em níveis de indireção de 'job **'
+  tabela_hash.vcxproj -> C:\Temp\Programa\tabela_hash\Debug\tabela_hash.exe
